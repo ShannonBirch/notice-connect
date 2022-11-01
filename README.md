@@ -7,13 +7,14 @@ Created by Shannon Birch
 I would appreciate any feedback that's willing to be provided. 
 
 ### Next Project Steps
-Were I spending more time on the project my next steps would be
- - Spend more time with the design of the frontend
- - Create pages for individual users and transactions beyond the django pae
- - Write tests
- -- Test that data inputs are valid
- -- Create test that verifies that the total is correct for the transactions based off Product price
- - I created tabs for Firms and Products for ease of adding them. You can view them by changing the comment in router.js if you'd like to add data not in the loaddata file
+Were I spending more time on the project, my next steps would be:
+ - Spend more time refining the design of the frontend to be more aethetically pleasing and user friendly
+ - Create pages for individual users and transactions beyond the django page
+ - Write the following tests:
+ - - Test that data inputs are valid
+ - - Create a unit test that verifies that the total is correct for the transactions based off Product price
+### Notes
+I created tabs for Firms and Products for ease of adding them to the database. If you'd like to add data not in the loaddata file, please view them by changing the comment in router.js.
 
 The project uses  [Gui Talarico's DJango-vue-template as a base](https://github.com/gtalarico/django-vue-template)
  
